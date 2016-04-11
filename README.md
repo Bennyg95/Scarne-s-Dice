@@ -1,6 +1,5 @@
 # Scarne's-Dice
 
-'''
 
 		Scarne's Dice is a turn-based dice game where players score points by rolling a die and then:
 		- If they roll a 1, score no point and lose their turn
@@ -10,11 +9,10 @@
 
 		The winner is the first player that reaches (or exceeds) 100 points.
 
-'''
+
 
 ### Example
 
-'''
 
 		If a player starts their turn and rolls a 6, they can choose to either ‘hold’ and
 		end their turn, in which case they can add the 6 to their score, or to reroll and
@@ -30,14 +28,8 @@
 
 		This goes on until one of the players reaches 100 points or more.
 
-'''
-
 ### Project description:
-
-'''
 
 		- A TextView to display the score and status of the game
 		- An ImageView to display the current die (with default of dice 1)
 		- Three buttons to either roll the die, end your turn, or start over
-
-'''
